@@ -1,0 +1,75 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 110%;
+}
+.myimage
+{
+    height: 150px;
+}
+.skill
+{
+    height: 150px;
+    float: left;
+    margin-right: 30px;
+}
+.coding
+{
+    height: 150px;
+    float: right;
+    margin-left: 30px;
+}
+.para{
+    color: #66bfbf;
+    font-weight: 50%;
+    font-size: 2.3rem;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+h1{
+    color: #66bfbf;
+    line-height: 2;
+    margin-top: 50px;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+}
+h2{
+    font-weight: bold;
+    color: #66bfbf;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.9rem;
+}
+h3{
+    font-weight: bold;
+    color: #11999e;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.9rem;
+}
+.top-container{
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.pro{
+    text-decoration: underline;
+    
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+    
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
