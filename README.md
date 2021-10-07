@@ -1,1 +1,1 @@
-# Basic-Website-with-HTML-CSS-and-JS
+# Basic-Website-with-HTML-CSS
